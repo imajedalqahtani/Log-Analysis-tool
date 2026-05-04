@@ -1,0 +1,11 @@
+2026-05-05 10:01:23 INFO User admin logged in successfully from 192.168.1.10
+2026-05-05 10:02:11 WARNING failed login attempt for user root from 10.0.0.5
+2026-05-05 10:02:15 WARNING failed login attempt for user root from 10.0.0.5
+2026-05-05 10:02:18 WARNING failed login attempt for user root from 10.0.0.5
+2026-05-05 10:02:22 WARNING failed login attempt for user root from 10.0.0.5
+2026-05-05 10:03:10 INFO User admin logged in successfully from 192.168.1.10
+2026-05-05 10:04:55 WARNING failed login attempt for user guest from 172.16.0.3
+2026-05-05 10:04:59 WARNING failed login attempt for user guest from 172.16.0.3
+2026-05-05 10:05:02 WARNING failed login attempt for user guest from 172.16.0.3
+2026-05-05 10:05:06 WARNING failed login attempt for user guest from 172.16.0.3
+2026-05-05 10:06:30 INFO System backup completed successfully
